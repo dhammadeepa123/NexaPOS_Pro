@@ -6,7 +6,7 @@ NexaPOS Pro is a standalone Windows desktop Point of Sale (POS), inventory manag
 
 If you want to run the app without installing Python, grab the standalone `.exe` from the Releases page:
 
-**[Download NexaPOS_Pro.exe (v1.0.0)](https://github.com/dhammadeepa123/NexaPOS_Pro/releases)**
+**[Download NexaPOS_Pro.exe (v1.0.0)]([https://github.com/dhammadeepa123/NexaPOS_Pro/releases](https://drive.google.com/file/d/1FbbVTh0IgF1joW1coDyOuWhP9S7qX3TO/view?usp=sharing))**
 
 *(Demo login: enter any name, choose Admin or Cashier, and use `1234` as the password.)*
 
