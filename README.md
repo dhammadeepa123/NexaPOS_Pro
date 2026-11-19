@@ -33,7 +33,8 @@ If you want to run the app without installing Python, grab the standalone `.exe`
 ### 4. Inventory Manager
 ![Inventory Manager](screenshots/inventory%20Manager.png)
 
-### ![Sales History](screenshots/Sales%20%20Manager.png)
+### 5. Sales Manager
+![Sales History](screenshots/Sales%20%20Manager.png)
 
 ## Running from Source
 
