@@ -1,0 +1,7 @@
+customtkinter
+matplotlib
+pandas
+openpyxl
+fpdf2
+qrcode
+pillow
