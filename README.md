@@ -21,14 +21,20 @@ If you just want to try the app without installing Python, download the standalo
 
 ## Screenshots
 
-| Login Screen | Analytics Dashboard |
-| :---: | :---: |
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+### 1. Login Screen
+![Login](screenshots/Login.png)
 
-| POS Terminal | QR-Verified PDF Invoice |
-| :---: | :---: |
-| ![POS Terminal](screenshots/pos.png) | ![PDF Invoice](screenshots/invoice.png) |
+### 2. Analytics Dashboard
+![Dashboard](screenshots/dashboard.png)
 
+### 3. POS Billing Terminal
+![POS Terminal](screenshots/Pos.png)
+
+### 4. Inventory Manager
+![Inventory Manager](screenshots/inventory%20Manager.png)
+
+### 5. Sales History & Invoices
+![Sales Manager](screenshots/Sales%20Manager.png)
 ## Running from Source
 
 1. Clone the repository:
